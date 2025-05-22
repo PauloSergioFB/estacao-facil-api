@@ -1,0 +1,52 @@
+# Bytecode e cache do Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Arquivos de ambiente virtual
+.venv/
+env/
+venv/
+
+# Arquivos de configuração do editor
+.vscode/
+*.code-workspace
+
+# Arquivos de ambiente
+.env
+*.env
+
+# Arquivos de dependência que podem ser gerados
+Pipfile.lock
+poetry.lock
+
+# PyInstaller
+*.spec
+
+# Arquivos de log ou temporários
+*.log
+*.tmp
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# Banco de dados local (se houver)
+*.sqlite3
+
+# Arquivos de teste temporários
+htmlcov/
+.tox/
+.nox/
+.coverage
+coverage.xml
+pytest_cache/
+
+# Arquivos do Git
+.git/
+
+# Render (deploy)
+render.yaml

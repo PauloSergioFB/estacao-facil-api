@@ -1,0 +1,7 @@
+fastapi[standard]
+oracledb
+pwdlib[argon2]
+pyjwt
+pydantic-settings
+ibm-watson
+tzdata
