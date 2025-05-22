@@ -47,6 +47,3 @@ pytest_cache/
 
 # Arquivos do Git
 .git/
-
-# Render (deploy)
-render.yaml
