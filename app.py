@@ -7,7 +7,7 @@ from routers import auth, chats, messages, subway_route, users
 app = FastAPI()
 
 origins = [
-    "https://estacao-facil-front-end.vercel.app",
+    "https://estacao-facil-front.vercel.app/",
     "http://localhost:3000",
 ]
 
